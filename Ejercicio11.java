@@ -1,10 +1,20 @@
-/*Un supermercado vende aceite en botellas de 1 litro a los precios por litro dados en la
+/*2. Un supermercado vende aceite en botellas de 1 litro a los precios por litro dados en la
 siguiente tabla:
 Aceite Precio por litro
 Primor S/. 5.99
 Girasol S/. 5.50
 Cil S/.4.50
 Cocinero S/. 4.70
+Como oferta, el supermercado ofrece un porcentaje de descuento sobre el importe de la
+compra de acuerdo con la siguiente tabla:
+Cantidad de litros Descuento
+< 4 5.0%
+4 y < 7 7.5%
+7 y < 10 10.0%
+10 12.5%
+Diseñe un algoritmo que determine el importe de la compra, el importe del descuento y el
+importe a pagar por la compra de cierta cantidad de litros de una misma marca de aceite.
+
 */
 
 import java.util.Scanner;
