@@ -5,7 +5,10 @@ Monto vendido Comisión
 20000 16%
 15000 pero < 20000 14%
 10000 pero < 15000 12%
-< 10000 10%*/
+< 10000 10%
+Por otro lado, si el sueldo bruto del vendedor supera los S/.1800, este se somete a un
+descuento del 11%. Dado el monto total vendido en una quincena por un vendedor, diseñe un
+programa que determine el sueldo bruto, el descuento y el sueldo neto correspondientes.*/
 
 import java.util.Scanner;
 class HelloWorld {
